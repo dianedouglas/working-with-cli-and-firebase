@@ -1,0 +1,17 @@
+{ "albums": [{
+    "title": "Pulse",
+    "artist": "Pink Floyd",
+    "released": 1995,
+    "image": "http://cdn2.bigcommerce.com/server2800/677b8/products/27814/images/104411/RETPFPLS__01346.1389218840.1100.1100.jpg?c=2"
+  }, {
+    "title": "Dilate",
+    "artist": "Ani DiFranco",
+    "released": 1996,
+    "image": "https://i.ytimg.com/vi/mhuH7aEpj7A/maxresdefault.jpg"
+  }, {
+    "title": "Axis Bold As Love",
+    "artist": "Jimi Hendrix",
+    "released": 1967,
+    "image": "http://impactfulsongs.com/files/2016/05/jimi-hendrix-axis-bold-as-love.jpg"
+  }]
+}
